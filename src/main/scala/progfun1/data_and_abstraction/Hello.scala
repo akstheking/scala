@@ -1,4 +1,4 @@
-package progfun1.progfun1.data_and_abstraction
+package progfun1.data_and_abstraction
 
 /**
   * Created by siakhil on 21/05/17.
